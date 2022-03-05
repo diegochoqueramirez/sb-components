@@ -42,3 +42,10 @@ CustomLabelColor.args = {
   size: "h1",
   fontColor: "#110de5",
 };
+
+export const CustomLabelBackgroundColor = Template.bind({});
+CustomLabelBackgroundColor.args = {
+  size: "h1",
+  fontColor: "#eeeeee",
+  backgroundColor: "#000000",
+};
